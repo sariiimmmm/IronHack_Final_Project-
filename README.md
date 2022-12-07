@@ -1,10 +1,10 @@
 # IronHack_Final_Project
 
-## Group member: Sarina Masoumi 
+Group member: Sarina Masoumi 
 
 
 # Goal
-## What is the Correlation between Carbon emission and GDP ? 
+### What is the Correlation between Carbon emission and GDP ? 
 
 
 # Data:
