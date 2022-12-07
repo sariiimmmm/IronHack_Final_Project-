@@ -20,10 +20,10 @@ Goal: What is the Correlation between Carbon emission and GDP ?
   
 # Tasks:
    
-   -Merge two Database 
-   -Data Cleaning
-   -Visualization
-   -Regression model 
+   - Merge two Database 
+   - Data Cleaning
+   - Visualization
+   - Regression model 
    
    
    
