@@ -4,28 +4,20 @@ Group member: Sarina Masoumi
 
 
 # Goal
-### What is the Correlation between Carbon emission and GDP ? 
+### Steam game platform analysis for game developers ? 
 
 
 # Data:
 
-   GDP : 
-   
-   https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
-   
-   
-   CO2 Emissions:
-   
-   https://data.worldbank.org/indicator/EN.ATM.CO2E.PC
-   
+   Steam kaggle dataset from 1997 till 2021
   
   
 # Tasks:
    
-   - Merge two Database 
    - Data Cleaning
    - Visualization
-   - Regression model 
+   -Presentation
+
    
    
    
